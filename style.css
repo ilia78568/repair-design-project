@@ -1,0 +1,23 @@
+.header-wrapper {
+  width: 100%;
+  height: 838px;
+  background: red;
+}
+
+p {
+  font-size: 30pt;
+  text-align: center;
+}
+
+.main-div-first {
+  width: 100%;
+  height: 1815px;
+  background-color: aquamarine;
+}
+
+.types-repair {
+  width: 100%;
+  height: 1440px;
+  background: yellow;
+}
+/*# sourceMappingURL=style.css.map */
