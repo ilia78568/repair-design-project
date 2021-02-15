@@ -1,3 +1,5 @@
 # repair-design-project
 
-open index.html
+https://sad-yalow-cbbb6a.netlify.app/
+
+Technologies: HTML, Scss
